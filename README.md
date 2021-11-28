@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codextw
+👋 Hi, I’m @codextw
 
 - I am a 15yo developer !
 - You can contact me via Discord or Telegram; discord: `its codex#4990`, Telegram: `@codex2fast`
