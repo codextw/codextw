@@ -1,7 +1,7 @@
 👋 Hi, I’m @codextw
 
 - I am a 15yo developer !
-- You can contact me via Discord or Telegram; discord: `its codex#4990`, Telegram: `@codex2fast`
+- You can contact me via Discord or Telegram; discord: `its codex#2000`, Telegram: `@snapchatting`
 
 I will be posting my codes and scripts.
 
